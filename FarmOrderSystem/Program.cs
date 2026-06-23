@@ -16,7 +16,7 @@ namespace FarmOrderSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmOrderQuery());
+            Application.Run(new frmOrder());
         }
     }
 }
